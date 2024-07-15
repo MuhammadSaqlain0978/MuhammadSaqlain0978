@@ -1,4 +1,11 @@
  <h1 align="center">Hi 👋, I'm Muhammad Saqlain</h1>
+ 
+
+### About Me:
+Flutter developer with a foundational understanding of Dart and Mobile App Development, seeking an internship to gain
+hands-on experience and enhancing technical expertise. Eager to contribute and grow in a collaborative, real-world
+environment.
+
 
 -  I’m currently working on Flutter
 -  I’m currently learning React
