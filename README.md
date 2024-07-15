@@ -13,7 +13,7 @@ environment.
 -  Ask me anything about Flutter 
 -  How to reach me: msaqlain.0978@gmail.com
 -  Linkedin: https://www.linkedin.com/in/muhammad-saqlain-0978/
--  fun fact: I do Film Making
+-  Fun Fact: I do Film Making
   
 <!--### Connect with me:
 <div id="badges">
@@ -43,5 +43,6 @@ environment.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaqlain0978&theme=dark)
 -->
 
-<br>
+<!--<br>
 ⭐️ From [Muhammad Saqlain](https://github.com/MuhammadSaqlain0978)
+-->
