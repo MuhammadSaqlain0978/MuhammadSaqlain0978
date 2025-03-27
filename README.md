@@ -2,15 +2,17 @@
  
 
 ### About Me:
-Flutter developer with a foundational understanding of Dart and Mobile App Development, seeking an internship to gain
+Devops Engineer with a foundational understanding of Docker and AWS, seeking an internship to gain
 hands-on experience and enhancing technical expertise. Eager to contribute and grow in a collaborative, real-world
 environment.
 
 
 -  I’m currently working on Flutter
+-  I’m currently learning Devops
 -  I’m currently learning React
--  I'm Looking for Flutter Internship
--  Ask me anything about Flutter 
+-  I'm Looking for Devops or React Internship
+-  Ask me anything about React
+-  Ask me anything about Docker
 -  How to reach me: msaqlain.0978@gmail.com
 -  Linkedin: https://www.linkedin.com/in/muhammad-saqlain-0978/
 -  Fun Fact: I do Film Making
