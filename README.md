@@ -51,7 +51,7 @@ environment.
 
 ### My Projects
 - [Documents Uploading App](https://github.com/MuhammadSaqlain0978/Documents-Uploading-App/tree/master) =>    [Project Video](https://vimeo.com/984356756)
-- [Quiz Game](https://github.com/MuhammadSaqlain0978/Flutter-Quiz-game)
+- [Spotify Clone](https://github.com/MuhammadSaqlain0978/Spotify-Clone)
 - [Car Rental Website](https://github.com/MuhammadSaqlain0978/Car_Rental_Website)   
   
 
