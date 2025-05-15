@@ -36,7 +36,7 @@ Growing Interest with hands-on experience in AWS and Docker, passionate about cl
 -->
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,linux,cpp,html,css,js,mysql,ae&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,linux,firebase,mongodb,flutter,dart,react,redux,nodejs,tailwind,vite,python,cpp,html,css,js,mysql,ae&perline=4)](https://skillicons.dev)
 
 <!--![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSaqlain0978&show_icons=true&theme=dark)
 
