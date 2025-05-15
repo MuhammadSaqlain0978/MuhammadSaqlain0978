@@ -2,17 +2,15 @@
  
 
 ### About Me:
-Devops Engineer with a foundational understanding of Docker and AWS, seeking an internship to gain
-hands-on experience and enhancing technical expertise. Eager to contribute and grow in a collaborative, real-world
-environment.
+Growing Interest with hands-on experience in AWS and Docker, passionate about cloud technologies and automation. Seeking an internship to expand knowledge, collaborate with experienced professionals, and contribute to impactful solutions in a dynamic environment.
 
 
--  I’m currently working on Flutter
--  I’m currently learning Devops
+-  I’m currently working and learning Devops
 -  I’m currently learning React
 -  I'm Looking for Devops or React Internship
 -  Ask me anything about React
 -  Ask me anything about Docker
+-  Ask me anything about Flutter
 -  How to reach me: msaqlain.0978@gmail.com
 -  Linkedin: https://www.linkedin.com/in/muhammad-saqlain-0978/
 -  Fun Fact: I do Film Making
