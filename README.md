@@ -2,15 +2,8 @@
  
 
 ### About Me:
-Growing Interest with hands-on experience in AWS and Docker, passionate about cloud technologies and automation. Seeking an internship to expand knowledge, collaborate with experienced professionals, and contribute to impactful solutions in a dynamic environment.
+I'm Muhammad Saqlain, a Final-Year Computer Science student passionate about building scalable and efficient solutions. My current skillset includes practical experience in Flutter for mobile app development, React for web development, foundational knowledge of containerization with Docker, and an understanding of AWS fundamentals. I'm actively expanding my expertise in the DevOps ecosystem and exploring the world of front-end development with React. Eager to contribute to innovative projects and continuously learn within a collaborative environment.
 
-
--  I’m currently working and learning Devops
--  I’m currently learning React
--  I'm Looking for Devops or React Internship
--  Ask me anything about React
--  Ask me anything about Docker
--  Ask me anything about Flutter
 -  How to reach me: msaqlain.0978@gmail.com
 -  Linkedin: https://www.linkedin.com/in/muhammad-saqlain-0978/
 -  Fun Fact: I do Film Making
