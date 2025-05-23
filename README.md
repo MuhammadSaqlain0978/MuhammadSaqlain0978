@@ -29,7 +29,7 @@ I'm Muhammad Saqlain, a Final-Year Computer Science student passionate about bui
 -->
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,linux,firebase,mongodb,flutter,dart,react,redux,nodejs,tailwind,vite,python,cpp,html,css,js,mysql,ae&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,linux,react,redux,nodejs,tailwind,vite,firebase,mongodb,flutter,dart,python,cpp,html,css,js,mysql,ae&perline=4)](https://skillicons.dev)
 
 <!--![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSaqlain0978&show_icons=true&theme=dark)
 
