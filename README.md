@@ -2,7 +2,7 @@
  
 
 ### About Me:
-I'm Muhammad Saqlain, a Final-Year Computer Science student passionate about building scalable and efficient solutions. My current skillset includes practical experience in Flutter for mobile app development, React for web development, foundational knowledge of containerization with Docker, and an understanding of AWS fundamentals. I'm actively expanding my expertise in the DevOps ecosystem and exploring the world of front-end development with React. Eager to contribute to innovative projects and continuously learn within a collaborative environment.
+I'm Muhammad Saqlain, a Final-Year Computer Science student passionate about building scalable and efficient solutions. My current skillset includes practical experience in React for web development, Flutter for mobile app development, , foundational knowledge of containerization with Docker, and an understanding of AWS fundamentals. I'm actively expanding my expertise in the DevOps ecosystem and exploring the world of front-end development with React. Eager to contribute to innovative projects and continuously learn within a collaborative environment.
 
 -  How to reach me: msaqlain.0978@gmail.com
 -  Linkedin: https://www.linkedin.com/in/muhammad-saqlain-0978/
