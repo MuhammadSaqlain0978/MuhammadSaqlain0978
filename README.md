@@ -42,7 +42,7 @@ I'm Muhammad Saqlain, a Final-Year Computer Science student passionate about bui
 
 ### My Projects
 
-- [RAG Based ChatBot](https://github.com/https://github.com/MuhammadSaqlain0978/Natural-Language-Processing)
+- [RAG Based ChatBot](https://github.com/MuhammadSaqlain0978/Natural-Language-Processing)
 - [Containerized Application Deployment -Docker](https://github.com/https://github.com/MuhammadSaqlain0978/Docker-React-Project)
 - [Spotify Clone](https://github.com/MuhammadSaqlain0978/Spotify-Clone)
 - [Documents Uploading App](https://github.com/MuhammadSaqlain0978/Documents-Uploading-App/tree/master) =>    [Project Video](https://vimeo.com/984356756)
