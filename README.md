@@ -2,7 +2,7 @@
  
 
 ### About Me:
-I'm Muhammad Saqlain, a Final-Year Computer Science student with a strong focus on DevOps and Cloud Engineering. I have hands-on experience working with Linux environments, Git, CI/CD pipelines, Docker, and Kubernetes, along with foundational knowledge of AWS cloud services and Infrastructure as Code (Terraform).
+I'm Muhammad Saqlain, a Fresh Graduate of Computer Science student with a strong focus on DevOps and Cloud Engineering. I have hands-on experience working with Linux environments, Git, CI/CD pipelines, Docker, and Kubernetes, along with foundational knowledge of AWS cloud services and Infrastructure as Code (Terraform).
 
 I’ve worked on configuring monitoring and alerting systems using CloudWatch, EventBridge, and Slack integrations, and I’m comfortable handling IAM security scenarios and cloud-based deployments. I understand containerization, automation workflows, and the importance of building scalable, reliable, and secure infrastructure.
 
