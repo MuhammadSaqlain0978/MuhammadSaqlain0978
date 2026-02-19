@@ -2,8 +2,11 @@
  
 
 ### About Me:
-I'm Muhammad Saqlain, a Final-Year Computer Science student passionate about building scalable and efficient solutions. My current skillset includes practical experience in React for web development, Flutter for mobile app development, foundational knowledge of containerization with Docker, Understanding of AWS fundamentals, and RAG. I'm actively expanding my expertise in the DevOps ecosystem and exploring the world of Agentic AI. Eager to contribute to innovative projects and continuously learn within a collaborative environment.
+I'm Muhammad Saqlain, a Final-Year Computer Science student with a strong focus on DevOps and Cloud Engineering. I have hands-on experience working with Linux environments, Git, CI/CD pipelines, Docker, and Kubernetes, along with foundational knowledge of AWS cloud services and Infrastructure as Code (Terraform).
 
+I’ve worked on configuring monitoring and alerting systems using CloudWatch, EventBridge, and Slack integrations, and I’m comfortable handling IAM security scenarios and cloud-based deployments. I understand containerization, automation workflows, and the importance of building scalable, reliable, and secure infrastructure.
+
+Currently, I’m deepening my expertise in advanced DevOps practices, cloud architecture, and automation while also exploring the integration of AI systems within DevOps workflows. I’m eager to contribute to high-impact infrastructure projects and grow within a collaborative, fast-paced engineering environment.
 -  How to reach me: msaqlain.0978@gmail.com
 -  Linkedin: https://www.linkedin.com/in/muhammad-saqlain-0978/
 -  Fun Fact: I do Film Making
